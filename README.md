@@ -1,3 +1,6 @@
+# Personalized Travel Itinerary Bot
+    This bot helps you to create a personalised vacation itinerary. All you have to do is just say hi.
+    Rest the bot will ask questions from you and finally create a proper itinerary according to your responses!
 # Textbase
 
 ✨ Textbase is a framework for building chatbots using NLP and ML. ✨
